@@ -6,7 +6,7 @@ if sys.version_info[0] < 3:
     raise Exception("Must be using Python 3.x!")
 
 subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "FinalRecon/requirements.txt"])
-subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "LittleBrtother/requirements.txt"])
+subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "LittleBrother/requirements.txt"])
 
 found = False
 if sys.version_info[1] < 4:

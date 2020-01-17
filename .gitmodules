@@ -1,0 +1,6 @@
+[submodule "FinalRecon"]
+	path = FinalRecon
+	url = https://github.com/EtienneDx/FinalRecon
+[submodule "LittleBrother"]
+	path = LittleBrother
+	url = https://github.com/EtienneDx/LittleBrother
